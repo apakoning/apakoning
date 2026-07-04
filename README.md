@@ -1,8 +1,10 @@
-Alain Koningverdraag 👋
+# Alain A.P. Koningverdraag
 
-Senior Linux Systems Engineer | Technical Support Engineer with over 26 years of hands-on experience supporting Linux, FreeBSD, Windows and macOS environments.
+## Linux Systems Engineer | Technical Support Engineer
 
-## Current Focus
+Experienced IT professional with over 26 years of hands-on experience supporting Linux, FreeBSD, Windows and macOS environments.
+
+## Currently Learning
 
 - Red Hat Enterprise Linux (RHCSA)
 - AWS Cloud
@@ -11,7 +13,7 @@ Senior Linux Systems Engineer | Technical Support Engineer with over 26 years of
 - Ansible
 - Terraform
 
-## Areas of Expertise
+## Core Technologies
 
 - Linux Systems Administration
 - Technical Support
@@ -21,8 +23,8 @@ Senior Linux Systems Engineer | Technical Support Engineer with over 26 years of
 - Bash Scripting
 - Cross-platform Support
 
-## Currently Building
+## Projects
 
-I'm documenting my labs, automation scripts and infrastructure projects as I continue expanding my cloud and Linux engineering skills.
+This profile will document my Linux, RHEL, automation and infrastructure projects as I continue building my cloud engineering portfolio.
 
 Always learning. Always building.
