@@ -4,27 +4,67 @@
 
 Experienced IT professional with over 26 years of hands-on experience supporting Linux, FreeBSD, Windows and macOS environments.
 
-## Currently Learning
+My background includes Linux systems administration, technical support, workstation deployment, networking, infrastructure support and troubleshooting for business and enterprise environments. I enjoy solving complex technical problems, automating repetitive tasks and continuously expanding my knowledge of modern infrastructure technologies.
+
+---
+
+## Current Learning
 
 - Red Hat Enterprise Linux (RHCSA)
-- AWS Cloud
+- Amazon Web Services (AWS)
 - Python Automation
-- Infrastructure as Code
+- Infrastructure as Code (Terraform)
 - Ansible
-- Terraform
+
+---
 
 ## Core Technologies
 
-- Linux Systems Administration
+- Linux
+- FreeBSD
+- Windows
+- macOS
+- Bash
+- Networking
+- TCP/IP
+- System Administration
 - Technical Support
 - Infrastructure
-- Networking
 - Root Cause Analysis
-- Bash Scripting
-- Cross-platform Support
+- Hardware Diagnostics
+
+---
+
+## Current Goals
+
+- Earn the RHCSA certification
+- Expand AWS knowledge through hands-on labs
+- Build practical Bash and Python automation tools
+- Develop Ansible and Terraform projects
+- Continue building an enterprise Linux portfolio
+
+---
 
 ## Projects
 
-This profile will document my Linux, RHEL, automation and infrastructure projects as I continue building my cloud engineering portfolio.
+This GitHub profile documents my Linux, RHEL, automation and infrastructure projects as I continue building my cloud engineering portfolio.
 
-Always learning. Always building.
+Upcoming repositories include:
+
+- Linux System Inventory
+- Bash Toolkit
+- RHEL Post-Installation Automation
+- Ansible Labs
+- Terraform on AWS
+- Python Automation
+- Home Lab Documentation
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/alain-koningverdraag/
+
+---
+
+*"Always learning. Always building."*
