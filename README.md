@@ -1,4 +1,4 @@
-# Hi, I'm Alain Koningverdraag 👋
+Alain Koningverdraag 👋
 
 Senior Linux Systems Engineer | Technical Support Engineer with over 26 years of hands-on experience supporting Linux, FreeBSD, Windows and macOS environments.
 
